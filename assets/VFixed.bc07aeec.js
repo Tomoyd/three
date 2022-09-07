@@ -1,0 +1,1 @@
+import{_ as o,d as l,o as s,c as a,N as r,O as n}from"./index.3afbc751.js";const _=l({props:{left:null,top:null},setup(e){return(t,d)=>(s(),a("div",{class:"fixed",style:n({left:e.left+"px",top:e.top+"px"})},[r(t.$slots,"default",{},void 0,!0)],4))}});var c=o(_,[["__scopeId","data-v-12d9b974"]]);export{c as V};
